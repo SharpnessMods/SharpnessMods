@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SharpnessMods
+- 👀 I’m interested in Making Mods for Minecraft.
+- 🌱 I’m currently learning Java and C++
+- 💞️ I’m looking to collaborate on Youtube (https://youtube.com/@shaaarpness)
+- 📫 How to reach me - Discord: shaaarpness or sharp.#0001
